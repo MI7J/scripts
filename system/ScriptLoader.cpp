@@ -8,6 +8,7 @@
 extern void AddSC_battleground();
 
 // custom
+extern void AddSC_npc_rank_vendor();
 
 // examples
 extern void AddSC_example_creature();
@@ -471,6 +472,7 @@ void AddScripts()
     AddSC_battleground();
 
     // custom
+    AddSC_npc_rank_vendor();
 
     // examples
     AddSC_example_creature();
